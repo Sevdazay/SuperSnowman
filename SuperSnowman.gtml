@@ -1,0 +1,24 @@
+
+background(88, 215, 219);
+// The ground
+fill(237, 201, 95);
+rect(0, 300, 400, 100);  
+
+// The sun
+fill(244, 250, 68);
+ellipse(80, 64, 100, 100);  
+
+// The snowman
+fill(227, 209, 91);
+ellipse(200, 300, 150, 150);
+ellipse(200, 200, 100, 100);
+ellipse(200, 120, 75, 75);
+triangle(58,13,14,25,65,17);
+//nose
+fill(232, 134, 23);
+triangle(45,73,14,25,65,17);
+
+//two eyes made out of coal
+fill(0, 0, 0);
+ellipse(10,163,-13,18);
+ellipse(47,160,-13,18);
